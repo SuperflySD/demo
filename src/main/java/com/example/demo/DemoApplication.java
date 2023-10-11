@@ -27,7 +27,7 @@ public class DemoApplication {
 //        ClientEntity clientEntity = clientRepository.findById(22l).get();
 //        clientEntity.setName("test");
 //        clientRepository.save(clientEntity);
-        return "test-green"+port;
+        return "blue "+port;
 
     }
 
